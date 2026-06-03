@@ -25,14 +25,17 @@ This script evaluates the sensitivity of Euclidean dCor vs. the proposed W-dCor 
 Rigid Rotation
 Random Translation (after Centering)
 Geometric Expansion (Radial Dilation)
+
 📊 Performance at a Glance (UCI Digits 8x8)
 Metric	Rotation	Random Shift	Systematic Expansion
 Euclidean dCor	0.98	0.45	0.69
 W-dCor (Proposed)	0.80	0.63	0.87
+
 📁 Repository Structure
 main.py: Full behavioral study suite.
 wdcor_lib.py: Core library containing Sliced-Wasserstein and Distance Correlation functions.
 requirements.txt: List of dependencies.
+
 ✉️ Citation
 Update available after publication.
 For now, please refer to the submitted manuscript.
