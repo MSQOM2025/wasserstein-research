@@ -1,6 +1,6 @@
-# Wasserstein Distance Correlation: A Geometric Dependence Estimator for Manifold-Valued Signals
+# Wasserstein Distance Correlation: A Geometric Dependency Estimator for Manifold-Valued Empirical Measures
 
-This repository provides the implementation for the experiments presented in the manuscript titled "Wasserstein Distance Correlation: A Geometric Dependence Estimator for Manifold-Valued Signals" (submitted for publication).
+This repository provides the implementation for the experiments presented in the manuscript titled "Wasserstein Distance Correlation: A Geometric Dependency Estimator for Manifold-Valued Empirical Measures" (submitted for publication).
 
 ## 📄 Abstract
 Traditional non-parametric independence tests suffer from a loss of statistical power in visual domains due to the pixel misalignment problem. We propose a geometry-aware framework (W-dCor) by re-interpreting images as weighted spatial measures. This implementation focuses on the Monte Carlo Sliced-Wasserstein (MCSW) estimation for manifold-valued data.
