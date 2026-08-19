@@ -1,6 +1,6 @@
-# Wasserstein Distance Correlation: A Geometric Dependency Estimator for Manifold-Valued Data
+# A Numerically Stable Sliced-Wasserstein Distance Covariance Framework for Dependency Inference in Discrete Domains
 
-This repository provides the implementation for the experiments presented in the manuscript titled "Wasserstein Distance Correlation: A Geometric Dependency Estimator for Manifold-Valued Data" (submitted for publication).
+This repository provides the implementation for the experiments presented in the manuscript titled "A Numerically Stable Sliced-Wasserstein Distance Covariance Framework for Dependency Inference in Discrete Domains" (submitted for publication).
 
 ## 📄 Abstract
 Traditional non-parametric independence tests suffer from a loss of statistical power in visual domains due to the pixel misalignment problem. We propose a geometry-aware framework (W-dCor) by re-interpreting images as weighted spatial measures. This implementation focuses on the Monte Carlo Sliced-Wasserstein (MCSW) estimation for manifold-valued data.
